@@ -1,0 +1,1 @@
+DES koder. Napisati program za kodiranje podataka pomoću DES algoritma. Niz ključeva koji odgovaraju svakoj od rundi dat je u fajlu keys.xml, dok se sve potrebne permutacione matrice mogu naći u DES.doc fajlu.
